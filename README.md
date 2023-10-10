@@ -17,7 +17,7 @@ Projeto sobre um jogo simples com WPF. <br/>
 <br>
 
 <p align="center">
-  <img alt="snake_game" src=".github/preview.png" width="50%">
+  <img alt="snake_game" src=".github/preview.png" width="70%">
 </p>
 
 ## 🚀 Tecnologias
