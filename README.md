@@ -17,7 +17,7 @@ Projeto sobre um jogo simples com WPF. <br/>
 <br>
 
 <p align="center">
-  <img alt="snake_game" src=".github/preview.png" width="37%">
+  <img alt="snake_game" src=".github/preview.png" width="50%">
 </p>
 
 ## 🚀 Tecnologias
@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Um jogo de cobrinha feito com WPF Application
+Um jogo de cobrinha🐍 feito com WPF Application
 
 ## :memo: Licença
 
